@@ -1,12 +1,15 @@
 public class Paquete {
+    // 1. Contador estático global (inicia en 1)
+    private static int contadorId = 1;
+
     //atributos
     private String id;
     private String nombre;
     private double peso;
 
     //contructor
-    public Paquete(String id, String nombre, double peso) {
-        this.id = id;
+    public Paquete(String nombre, double peso) {
+        this.id = generarIdAuto();
         this.nombre = nombre;
         this.peso = peso;
     }
@@ -37,6 +40,11 @@ public class Paquete {
     }
 
     public void mostrarPaquete(){
-        System.out.println("| id:" + this.getId() + " | Nombre: " + this.getNombre() + " | Peso: " + this.getPeso() + " |");
+        System.out.println("| id: " + this.getId() + " | Nombre: " + this.getNombre() + " | Peso: " + this.getPeso() + " |");
     }
+
+    private static String generarIdAuto() {
+        return String.format("PKG-%03d", contadorId++);
+    }
+    
 }
