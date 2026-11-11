@@ -5,7 +5,7 @@ public class BucketSort {
     //constantes 
     final double minimo = 0.0; // kilos
     final double maximo = 30;
-
+    ArrayList<ArrayList<Double> > listasBuckets = new ArrayList<>();
     final int numCubos = 6;
 
     public BucketSort() {
@@ -69,4 +69,83 @@ public class BucketSort {
 
         return listaOrdenada;
     }
+ //;;;;;
+//          Implementacion Andres
+//;;;;;;
+    private ArrayList<ArrayList<Double>> añadirList(int k){
+        for(int i = 0;i < k;i++){
+           //Crea un nuevo arrayList apuntando a una nueva referencia
+            listasBuckets.add(new ArrayList<>());//Se añade esa lista al arrayList que contiene varios ArrayList
+        }
+        
+        return listasBuckets;//Devuelvo una lista de listas
+    }
+
+    public ArrayList<ArrayList<Double>> distribucion(ArrayList<Double> listaPesoPaquetes){
+       listasBuckets.clear();//Para evitar duplicados y liberar la memoria del anterior ordenamiento(limpia el arryList)
+       
+       double minimo=listaPesoPaquetes.get(0);//Van a obtener el primer valor del array
+       double maximo=listaPesoPaquetes.get(0);//Van a obtener el primer valor del array
+        int longitudDatos= listaPesoPaquetes.size();
+        
+        int k = longitudDatos/2;//Para organizar los buckets
+        int rangoInsertB = longitudDatos/k;//Para saber cuantos valores meter en cada bucket
+        
+        for(int i = 1;i < listaPesoPaquetes.size();i++){//Es un ciclo para hayar el minimo y maximo
+            if(listaPesoPaquetes.get(i) < minimo){
+               minimo=listaPesoPaquetes.get(i);//Va ser igual a un nuevo valor minimo
+            }
+            if(listaPesoPaquetes.get(i) > maximo){
+               maximo=listaPesoPaquetes.get(i);//Va ser igual a un nuevo valor maximo
+            }
+        }  //indice = (elemento del arreglo(x) - minimo/(maximo-minimo) )*cantidad de buckets(k)
+        int indice;
+        
+        añadirList(k);//Se crean los nuevos bucket
+        
+        for(int i = 0;i < listaPesoPaquetes.size();i++){
+           
+           indice=(int) (((listaPesoPaquetes.get(i)-minimo)/(maximo-minimo))*k);//Realizo casting para que se haga la conversion a entero
+           //Para que no se desborde la pila de los buckets
+           if(indice >= k){
+              indice = k-1;//Se garantiza que indice no se vaya desbordar es decir que su indice supere los indices que hay en cada bucket
+           }
+           listasBuckets.get(indice).add(listaPesoPaquetes.get(i));//Añado al bucket contenido en una lista Ej: add(2) ->listasBuckets [ [2] ]
+        }
+        
+        return listasBuckets; //Devuelve lista de listas(buckets)
+    }
+
+    public ArrayList<Double> bucketSort(
+        ArrayList<Double> listaPesoPaquetes){
+
+        ArrayList<Double> result=new ArrayList<>();  
+        distribucion(listaPesoPaquetes);//Distribuye el array en diferentes Buckets contenidos a una lista
+       
+        for(int i=0; i < listasBuckets.size();i++){
+           insertionSortA(listasBuckets.get(i));
+        }
+        
+        for(int i=0; i < listasBuckets.size();i++){
+           for(double value : listasBuckets.get(i)){
+                result.add(value);//Se van añadiendo los elementos de cada bucket en un arraylist de resultado
+           }
+        }
+        
+        return result;
+    }
+
+  private List<Double> insertionSortA(ArrayList<Double> cubo){
+        for(int i = 1 ; i<cubo.size(); i++){
+            double clave = cubo.get(i);
+            int j = i - 1;
+            while (j >= 0 && cubo.get(j) > clave) {
+                cubo.set(j + 1, cubo.get(j));
+                j--;
+            }
+            cubo.set(j + 1, clave);
+        }
+        return cubo;   
+    }
+
 }

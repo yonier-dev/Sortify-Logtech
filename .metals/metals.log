@@ -1,0 +1,287 @@
+2026.11.09 23:43:41 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\pipec\Desktop\Java\Sortify-Logtech' for client Visual Studio Code 1.143.1.
+2026.11.09 23:43:42 INFO  time: initialize in 0.13s
+2026.11.09 23:43:41 INFO  Memory monitor started
+2026.11.09 23:43:46 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.09 23:43:47 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:43:49 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:43:50 WARN  no build tool detected in workspace 'C:\Users\pipec\Desktop\Java\Sortify-Logtech'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.11.09 23:43:50 WARN  Build server is not auto-connectable.
+2026.11.09 23:43:50 WARN  no build target for: C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java
+2026.11.09 23:43:51 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:43:51 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+nov. 09, 2026 11:43:52 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+2026.11.09 23:43:51 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+nov. 09, 2026 11:43:52 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 8
+2026.11.09 23:43:51 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:43:51 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:43:51 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+nov. 09, 2026 11:43:52 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 11
+2026.11.09 23:43:51 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:43:52 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+nov. 09, 2026 11:43:53 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 12
+2026.11.09 23:43:52 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+nov. 09, 2026 11:43:53 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 13
+2026.11.09 23:43:52 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+nov. 09, 2026 11:43:53 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 19
+2026.11.09 23:43:53 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:43:52 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+nov. 09, 2026 11:43:53 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 21
+2026.11.09 23:43:52 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:43:53 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:43:53 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:43:54 INFO  time: code lens generation in 3.4s
+2026.11.09 23:44:00 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:00 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:00 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:02 WARN  no build target for: C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java
+2026.11.09 23:44:02 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+nov. 09, 2026 11:44:02 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 34
+2026.11.09 23:44:02 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:44:02 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:44:04 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:44:06 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:44:23 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:44:24 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:44:24 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:44:25 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:44:25 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:44:36 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:44:36 WARN  no build target for: C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Paquete.java
+2026.11.09 23:44:36 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Paquete.java. Using fallback presentation compiler.
+2026.11.09 23:44:36 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Paquete.java. Using fallback presentation compiler.
+nov. 09, 2026 11:44:36 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 151
+2026.11.09 23:44:36 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Paquete.java. Using fallback presentation compiler.
+2026.11.09 23:44:37 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Paquete.java. Using fallback presentation compiler.
+2026.11.09 23:44:39 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Paquete.java. Using fallback presentation compiler.
+2026.11.09 23:44:39 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Paquete.java. Using fallback presentation compiler.
+2026.11.09 23:44:39 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Paquete.java. Using fallback presentation compiler.
+2026.11.09 23:44:40 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Paquete.java. Using fallback presentation compiler.
+2026.11.09 23:44:41 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Paquete.java. Using fallback presentation compiler.
+2026.11.09 23:44:47 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Paquete.java. Using fallback presentation compiler.
+2026.11.09 23:44:47 WARN  no build target for: C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java
+2026.11.09 23:44:47 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+nov. 09, 2026 11:44:47 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 184
+2026.11.09 23:44:47 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:44:47 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:44:47 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:47 WARN  no build target for: C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java
+2026.11.09 23:44:47 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:47 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:47 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:49 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:49 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:49 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:50 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:50 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:50 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:55 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:55 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:56 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:56 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:57 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:58 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:44:58 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:45:08 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:45:08 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:45:08 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:45:08 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:45:10 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:45:10 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:45:11 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:45:18 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:45:18 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:45:18 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:45:21 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:14 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:14 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:20 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:21 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:22 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:22 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:24 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:28 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:28 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:33 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:33 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:35 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:36 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:40 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:48 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:48 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:50 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:51 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:51 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:48:58 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.09 23:49:02 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:49:02 WARN  no build target for: C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java
+nov. 09, 2026 11:49:02 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 396
+2026.11.09 23:49:02 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:49:02 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:49:10 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:49:12 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:49:18 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:49:19 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:49:26 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:49:30 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:49:34 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:49:35 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:49:35 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:49:51 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:49:53 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.09 23:49:58 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:19:39 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:19:39 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+nov. 10, 2026 12:19:41 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.11.10 00:19:42 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:23 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:23 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:23 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+nov. 10, 2026 12:24:23 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 562
+2026.11.10 00:24:23 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:26 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:29 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:32 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:32 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:34 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:34 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:34 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:39 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:42 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:42 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:49 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:50 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:53 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:53 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:56 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:58 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:24:58 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:25:00 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:25:00 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:25:01 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:25:04 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:25:05 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:25:05 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:25:05 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:25:14 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:25:14 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:25:15 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:25:18 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.10 00:25:26 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:25:26 WARN  no build target for: C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java
+2026.11.10 00:25:26 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:25:26 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:25:26 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:25:28 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:25:47 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:25:47 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:25:51 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:25:51 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:25:51 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:25:55 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:26:03 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:26:08 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:26:08 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:26:14 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:26:14 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:26:15 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:26:19 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:26:19 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:26:20 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:26:43 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.10 00:26:43 INFO  Shutting down server
+2026.11.10 00:26:43 INFO  Memory monitor stopped
+2026.11.10 00:26:43 INFO  shutting down Metals
+2026.11.10 00:26:43 INFO  Exiting server
+2026.11.11 14:19:13 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\pipec\Desktop\Java\Sortify-Logtech' for client Visual Studio Code 1.145.2.
+2026.11.11 14:19:13 INFO  time: initialize in 0.11s
+2026.11.11 14:19:13 INFO  Memory monitor started
+2026.11.11 14:19:16 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.11 14:19:16 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+nov. 11, 2026 2:19:18 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+2026.11.11 14:19:18 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:18 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:18 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:19 WARN  no build tool detected in workspace 'C:\Users\pipec\Desktop\Java\Sortify-Logtech'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.11.11 14:19:19 WARN  Build server is not auto-connectable.
+2026.11.11 14:19:20 WARN  no build target for: C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java
+2026.11.11 14:19:19 WARN  no build target for: C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java
+2026.11.11 14:19:22 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:22 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:22 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:22 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+nov. 11, 2026 2:19:22 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 16
+2026.11.11 14:19:22 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:22 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:23 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:23 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:23 INFO  time: code lens generation in 1.31s
+2026.11.11 14:19:23 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:24 INFO  time: code lens generation in 4.41s
+2026.11.11 14:19:27 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:27 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:27 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:28 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:28 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:30 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:33 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:46 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:19:48 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+nov. 11, 2026 2:19:49 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 36
+2026.11.11 14:19:49 WARN  no build target for: C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java
+2026.11.11 14:19:48 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.11 14:19:48 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.11 14:19:49 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.11 14:21:35 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.11 14:21:37 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+nov. 11, 2026 2:21:37 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.11.11 14:21:37 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.11 14:22:04 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.11 14:22:16 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+nov. 11, 2026 2:22:16 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 75
+2026.11.11 14:22:22 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:22:22 WARN  no build target for: C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java
+2026.11.11 14:22:22 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+nov. 11, 2026 2:22:22 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 80
+2026.11.11 14:22:22 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:22:22 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\BucketSort.java. Using fallback presentation compiler.
+2026.11.11 14:22:24 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.11 14:22:24 WARN  no build target for: C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java
+2026.11.11 14:22:24 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.11 14:22:24 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+nov. 11, 2026 2:22:25 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 88
+2026.11.11 14:22:24 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.11 14:22:24 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.11 14:22:24 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+2026.11.11 14:22:25 INFO  no build target found for C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java. Using fallback presentation compiler.
+nov. 11, 2026 2:22:27 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.11.11 14:23:41 INFO  Shutting down server
+2026.11.11 14:23:41 INFO  Memory monitor stopped
+2026.11.11 14:23:41 INFO  shutting down Metals
+2026.11.11 14:23:41 INFO  Exiting server
+2026.11.11 14:24:19 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\pipec\Desktop\Java\Sortify-Logtech' for client Visual Studio Code 1.146.0.
+2026.11.11 14:24:19 INFO  Memory monitor started
+2026.11.11 14:24:21 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.11 14:24:22 WARN  no build tool detected in workspace 'C:\Users\pipec\Desktop\Java\Sortify-Logtech'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.11.11 14:24:22 WARN  Build server is not auto-connectable.
+2026.11.11 14:24:22 WARN  no build target for: C:\Users\pipec\Desktop\Java\Sortify-Logtech\src\Main.java
