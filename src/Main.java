@@ -1,23 +1,14 @@
 import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class Main {
     private static ArrayList<Paquete> paquetes = new ArrayList<>();
 
     public static void main(String[] args) {
-        /*Paquete p1 = new Paquete("123","Laptop",2.4);
-        p1.mostrarPaquete();
-        BucketSort a1 = new BucketSort();
-        List<Double> pesosDesordenados = List.of(
-            24.5,  3.1,  18.7, 12.4, 29.2, 
-            7.8,   15.3, 21.0, 0.6,  26.4, 
-            11.9,  9.5,  28.1, 14.2, 5.7
-        );
-        List<Double> pesosOrdenados = a1.ordenarYonier(pesosDesordenados);
+        menu();
+    }
 
-        System.out.println(pesosOrdenados);*/
-
+    public static void menu(){
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Sistema de clasificación de paquetes por peso");
@@ -27,7 +18,7 @@ public class Main {
             System.out.println("2. Generar N paquetes con distribucion uniforme (equitativo entre 0.1 kg y 30.0 kg)");
             System.out.println("3. Ejecutar Bucket sort, midiendo el tiempo de ejecucion y imprimiendo la lista ordenada");
             System.out.println("4. Mostrar paquete");
-            System.out.println("5. Mostrar todos los paquete");
+            System.out.println("5. Mostrar todos los paquete sin organizar");
             System.out.println("6. Restablecer el sistema");
             System.out.println("7. salir");
             System.out.println("¿Cual opcion desea escoger? ");
@@ -65,38 +56,22 @@ public class Main {
                     System.out.println("Ejecutando Bucket Sort para " + paquetes.size() + " paquetes...");
 
                     // Extraer solo los pesos para pasarlos a BucketSort
-                    List<Double> pesos = new ArrayList<>();
+                    ArrayList<Double> pesos = new ArrayList<>();
                     for (Paquete p : paquetes) {
                         pesos.add(p.getPeso());
                     }
-                    //Para que funcione en mi implementacion
-                    ArrayList<Double> pesos_ = new ArrayList<>();
-                    for (Paquete p : paquetes) {
-                        pesos_.add(p.getPeso());
-                    }
-
 
                     BucketSort sorter = new BucketSort();
-
                     // Medición de tiempo de ejecución
                     long inicio = System.nanoTime();
-                    List<Double> pesosOrdenados = sorter.ordenarYonier(pesos);
+                    ArrayList<Double> pesosOrdenados = sorter.bucketSort(pesos);
                     long fin = System.nanoTime();
                     double tiempoMilisegundos = (fin - inicio) / 1_000_000.0;
 
-                    //Andres
-                    long inicio2 = System.nanoTime();
-                    ArrayList<Double> pesosOrdenados2 = sorter.bucketSort(pesos_);
-                    long fin2 = System.nanoTime();
-                    double tiempoMilisegundos2 = (fin2 - inicio2) / 1_000_000.0;
-
-
+                    //Output de los Resultados y tiempo de demore
                     System.out.println("\n--- RESULTADO DEL ORDENAMIENTO ---");
                     System.out.println("Pesos ordenados: " + pesosOrdenados);
                     System.out.printf("Tiempo de ejecución: %.4f ms\n", tiempoMilisegundos);
-                    //Mio
-                    System.out.println("Pesos ordenados: " + pesosOrdenados2);
-                    System.out.printf("Tiempo de ejecución: %.4f ms\n", tiempoMilisegundos2);
                     break;
                 case 4:
                     System.out.print("Ingrese el id del paquete: ");
